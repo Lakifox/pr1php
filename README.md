@@ -1,2 +1,2 @@
-# pr1php
+# pr php
 практичніphp
